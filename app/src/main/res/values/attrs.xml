@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RatingBar">
+        <attr name="starSize" format="dimension" />
+        <attr name="starLightColor" format="color" />
+        <attr name="starDarkColor" format="color" />
+        <attr name="starCount" format="integer" />
+    </declare-styleable>
+</resources>
